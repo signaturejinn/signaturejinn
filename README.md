@@ -19,5 +19,9 @@
 <div align=center><h1> 📝 Stacks </h1></div>
 
 ## CSP
+<img src="https://img.shields.io/badge/Google GCP-4285F4?style=for-the-badge&logo=Google GCP&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--azure-->
+
 
 <img src="https://img.shields.io/badge/Enterprise resource Planning(ERP)-FF9A00?style=for-the-badge&logo=ERP&logoColor=white">
