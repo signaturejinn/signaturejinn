@@ -14,3 +14,22 @@
 </br></br></br>
 
 <div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2> </div>
+Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..
+## 1. Project
+### 1.1 
+
+###
+
+###
+
+###
+
+###
+
+### 
+###
+
+</br>
+
+## 2. Stack
+### CSP
