@@ -16,6 +16,26 @@
 
 </br></br></br></br>
 
+<div align=center><h1> 👨🏻‍💻 Project </h1></div>
+## 1. DB 캡스톤 디자인
+### 
+## 2. AWS를 활용한 3티어 웹 서비스
+###
+## 3. NCP를 활용한 3-Tier 인프라
+###
+## 4. GCP를 활용한 3-Tier 인프라
+###
+## 5. GCP를 활용한 Kubernetes 인프라
+###
+## 6. IaC를 활용한 AWS 인프라
+###
+## 7. IaC를 활용한 GCP 2-Tier 인프라
+###
+## 8. Cloud Native 기반 MSA 웹 서비스
+
+
+</br></br></br></br>
+
 <div align=center><h1> 📝 Stacks </h1></div>
 
 ### CSP
@@ -39,7 +59,7 @@
 
 ### Database
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
-<img src="mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
 
 ### Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <!--spring-->
