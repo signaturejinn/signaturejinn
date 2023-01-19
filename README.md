@@ -7,16 +7,14 @@
 <div align=center> <h2>[ 2021.09 ~ 2021.12 - 전사적자원관리 교육 ]</h2><b/></div>
 
 ## 1. Basics
-### - Learning : ERP(Enterprise Resource Planning)
+### - Learning of ERP(Enterprise Resource Planning)
 ## 2. Stack
 <img src="https://img.shields.io/badge/Enterprise resource Planning(ERP)-FF9A00?style=for-the-badge&logo=ERP&logoColor=white">
 
 </br></br></br>
 
 <div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2> </div>
-Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..
-## 1. Project
-### 1.1 
+### <b>Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..</b>
 
 ###
 
