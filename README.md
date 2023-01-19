@@ -6,13 +6,13 @@
 
 <div align=center> <h2>[ 2021.09 ~ 2021.12 - 전사적자원관리 교육 ]</h2></div>
 
-## - Learning of ERP(Enterprise Resource Planning)
+### - Learning of ERP(Enterprise Resource Planning)
 
 </br></br>
 
 <div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2></div>
 
-## - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
+### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
 
 </br></br></br></br>
 
