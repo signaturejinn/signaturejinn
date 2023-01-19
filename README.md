@@ -8,12 +8,12 @@
 
 ## - Learning of ERP(Enterprise Resource Planning)
 
-</br></br></br>
+</br></br>
 
 <div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2> </div>
 ## Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
 
-</br>
+</br></br></br></br>
 
 <div align=center><h1> 📝 Stacks </h1></div>
 
