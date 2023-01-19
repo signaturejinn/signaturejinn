@@ -10,4 +10,4 @@
 ### - Learning : ERP(Enterprise Resource Planning)
 
 ## 2. Stack
-<img src="https://img.shields.io/badge//Enterprise Resource Planning(ERP)-FF9A00">
+<img src="https://img.shields.io/badge/ERP-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
