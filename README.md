@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
 <img src="https://img.shields.io/badge/Looker Studio-276DC3?style=for-the-badge&logo=Looker&logoColor=white"> <!--Looker-->
 <img src="https://img.shields.io/badge/Arena Simulation-CE262F?style=for-the-badge&logo=Arena&logoColor=white">  <!--Arena-->
-<img src="https://img.shields.io/badge/Enterprise resource Planning(ERP)-FF9A00?style=for-the-badge&logo=ERP&logoColor=white">
+<img src="https://img.shields.io/badge/ERP-FF9A00?style=for-the-badge&logo=ERP&logoColor=white">
 
 ## Database
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
