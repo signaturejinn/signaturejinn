@@ -19,34 +19,42 @@
 <div align=center><h1> 👨🏻‍💻 Project </h1></div>
 
 <h2> 1. DB 캡스톤 디자인 </h2>
+
 ### [DB_Capstone_Design] (https://github.com/signaturejinn/DB_Capstone_Design)
 </br>
 
 <h2> 2. AWS를 활용한 3티어 웹 서비스 </h2>
+
 ### [AWS_3-Tier_Infra] (https://github.com/signaturejinn/AWS_3-Tier_Infra)
 </br>
 
 <h2> 3. NCP를 활용한 3-Tier 인프라 </h2>
+
 ### [NCP_3-Tier_Infra] (https://github.com/signaturejinn/NCP_3-Tier_Infra)
 </br> 
 
 <h2> 4. GCP를 활용한 3-Tier 인프라 </h2>
+
 ### [GCP_3-Tier_Infra] (https://github.com/signaturejinn/GCP_3-Tier_Infra)
 </br>
 
 <h2> 5. GCP를 활용한 Kubernetes 인프라 </h2>
+
 ### [GCPZG_k8s_petclinic] (https://github.com/signaturejinn/GCPZG_k8s_petclinic)
 </br>
 
 <h2> 6. IaC를 활용한 AWS 인프라 </h2>
+
 ### [AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra)
 </br>
 
 <h2> 7. IaC를 활용한 GCP 2-Tier 인프라 </h2>
+
 ### [GCPZG_2-Tier_Terraform] (https://github.com/signaturejinn/GCPZG_2-Tier_Terraform)
 </br>
 
 <h2> 8. Cloud Native 기반 MSA 웹 서비스 </h2>
+
 ### [GCPZG_Cloud_Native_MSA] (https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
 
 </br></br></br></br>
