@@ -4,7 +4,7 @@
   
 <div align=center><h1> 🎓 Education </h1></div>
 
-<div align=center> <h2>[ 2021.09 ~ 2021.12 - 전사적자원관리 교육 ]</h2></div>
+<div align=center> <h2>[ 전사적자원관리 교육 - 2021.09 ~ 2021.12  ]</h2></div>
 
 ### - Learning of ERP(Enterprise Resource Planning)
 
