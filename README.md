@@ -21,18 +21,23 @@
 ## 1. DB 캡스톤 디자인
 
 ## 2. AWS를 활용한 3티어 웹 서비스
+[AWS 2-Tier with Console] (https://github.com/GayaKim/AWS_2Tier_Console.git)
 
 ## 3. NCP를 활용한 3-Tier 인프라
 
 ## 4. GCP를 활용한 3-Tier 인프라
 
 ## 5. GCP를 활용한 Kubernetes 인프라
+[GCPZG_k8s_petclinic] (https://github.com/signaturejinn/GCPZG_k8s_petclinic)
 
 ## 6. IaC를 활용한 AWS 인프라
+[AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra)
 
 ## 7. IaC를 활용한 GCP 2-Tier 인프라
+[GCPZG_2-Tier_Terraform] (https://github.com/signaturejinn/GCPZG_2-Tier_Terraform)
 
 ## 8. Cloud Native 기반 MSA 웹 서비스
+[GCPZG_Cloud_Native_MSA] (https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
 
 </br></br></br></br>
 
