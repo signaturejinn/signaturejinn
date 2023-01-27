@@ -22,19 +22,25 @@
 
 ## 2. AWS를 활용한 3티어 웹 서비스
 [AWS 2-Tier with Console] (https://github.com/GayaKim/AWS_2Tier_Console.git)
+</br>
 
 ## 3. NCP를 활용한 3-Tier 인프라
+</br>
 
 ## 4. GCP를 활용한 3-Tier 인프라
+</br>
 
 ## 5. GCP를 활용한 Kubernetes 인프라 </h2>
 ### [GCPZG_k8s_petclinic] (https://github.com/signaturejinn/GCPZG_k8s_petclinic)
+</br>
 
 ## 6. IaC를 활용한 AWS 인프라
 ### [AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra
+</br>
 
 ## 7. IaC를 활용한 GCP 2-Tier 인프라
 ### [GCPZG_2-Tier_Terraform] (https://github.com/signaturejinn/GCPZG_2-Tier_Terraform)
+</br>
 
 ## 8. Cloud Native 기반 MSA 웹 서비스
 ### [GCPZG_Cloud_Native_MSA] (https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
