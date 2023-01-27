@@ -39,7 +39,7 @@
 </br>
 
 ## 6. IaC를 활용한 AWS 인프라
-### [AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra
+### [AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra)
 </br>
 
 ## 7. IaC를 활용한 GCP 2-Tier 인프라
