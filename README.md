@@ -76,6 +76,11 @@
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">  <!--argocd-->
 
 ## Monitoring
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">  <!--Prometheus-->
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">  <!--Grafana-->
+
+
+## Monitoring
 <img src="https://img.shields.io/badge/Fluent Bit-49BDA5?style=for-the-badge&logo=FluentBit&logoColor=white">  <!--Fluentbit-->
 
 ## Container
