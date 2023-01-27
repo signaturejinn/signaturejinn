@@ -27,11 +27,11 @@
 
 ## 4. GCP를 활용한 3-Tier 인프라
 
-## 5. GCP를 활용한 Kubernetes 인프라
-[GCPZG_k8s_petclinic] (https://github.com/signaturejinn/GCPZG_k8s_petclinic)
+<h2> 5. GCP를 활용한 Kubernetes 인프라 </h2>
+## [GCPZG_k8s_petclinic] (https://github.com/signaturejinn/GCPZG_k8s_petclinic)
 
 ## 6. IaC를 활용한 AWS 인프라
-[AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra)
+[AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra
 
 ## 7. IaC를 활용한 GCP 2-Tier 인프라
 [GCPZG_2-Tier_Terraform] (https://github.com/signaturejinn/GCPZG_2-Tier_Terraform)
