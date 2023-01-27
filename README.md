@@ -19,10 +19,10 @@
 <div align=center><h1> 👨🏻‍💻 Project </h1></div>
 
 ## 1. DB 캡스톤 디자인
-
+</br>
 
 ## 2. AWS를 활용한 3티어 웹 서비스
-###[AWS 2-Tier with Console] (https://github.com/GayaKim/AWS_2Tier_Console.git)
+### [AWS 2-Tier with Console] (https://github.com/GayaKim/AWS_2Tier_Console.git)
 </br>
 
 ## 3. NCP를 활용한 3-Tier 인프라
