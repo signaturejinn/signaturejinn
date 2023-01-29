@@ -28,32 +28,37 @@
 ### [AWS_3-Tier_Infra] (https://github.com/signaturejinn/AWS_3-Tier_Infra)
 </br>
 
-<h2> 3. NCP를 활용한 3-Tier 인프라 </h2>
+<h2> 3. Azure를 활용한 2티어 웹 서비스 </h2>
+
+### [Azure_2-Tier_Infra] (https://github.com/signaturejinn/Azure_2-Tier_Infra)
+</br>
+
+<h2> 4. NCP를 활용한 3-Tier 인프라 </h2>
 
 ### [NCP_3-Tier_Infra] (https://github.com/signaturejinn/NCP_3-Tier_Infra)
 </br> 
 
-<h2> 4. GCP를 활용한 3-Tier 인프라 </h2>
+<h2> 5. GCP를 활용한 3-Tier 인프라 </h2>
 
 ### [GCP_3-Tier_Infra] (https://github.com/signaturejinn/GCP_3-Tier_Infra)
 </br>
 
-<h2> 5. GCP를 활용한 Kubernetes 인프라 </h2>
+<h2> 6. GCP를 활용한 Kubernetes 인프라 </h2>
 
 ### [GCPZG_k8s_petclinic] (https://github.com/signaturejinn/GCPZG_k8s_petclinic)
 </br>
 
-<h2> 6. IaC를 활용한 AWS 인프라 </h2>
+<h2> 7. IaC를 활용한 AWS 인프라 </h2>
 
 ### [AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra)
 </br>
 
-<h2> 7. IaC를 활용한 GCP 2-Tier 인프라 </h2>
+<h2> 8. IaC를 활용한 GCP 2-Tier 인프라 </h2>
 
 ### [GCPZG_2-Tier_Terraform] (https://github.com/signaturejinn/GCPZG_2-Tier_Terraform)
 </br>
 
-<h2> 8. Cloud Native 기반 MSA 웹 서비스 </h2>
+<h2> 9. Cloud Native 기반 MSA 웹 서비스 </h2>
 
 ### [GCPZG_Cloud_Native_MSA] (https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
 
