@@ -73,8 +73,8 @@
 <img src="https://img.shields.io/badge/Naver NCP-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <!--NCP-->
 
 ### OS
-<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"> <!--CentOS-->
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"> <!--Ubuntu-->
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat-badge&logo=CentOS&logoColor=white"> <!--CentOS-->
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-badge&logo=Ubuntu&logoColor=white"> <!--Ubuntu-->
 <img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
 <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"> <!--rocky linux-->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
@@ -123,7 +123,7 @@
 ### Team Collaboration Tools 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <!--Slack-->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <!--Git-->
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> <!--Github-->
+<img src="https://img.shields.io/badge/Github-181717?style=flat-badge&logo=Github&logoColor=white"> <!--Github-->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 <img src="https://img.shields.io/badge/Drawio-15C39A?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Drawio-->
 
