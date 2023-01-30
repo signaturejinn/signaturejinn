@@ -21,46 +21,55 @@
 ### ☁ Google GCP
 > #### ✔ [GCP_3-Tier_Infra]
 > #### - GCP를 활용한 3-Tier 웹서비스 인프라 구축 프로젝트
+> #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/GCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 
 > #### ✔ [GCPZG_k8s_petclinic]
 > #### - GCP를 활용한 Kubernetes 웹서비스 인프라 구축 프로젝트
+> #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/GCPZG_k8s_petclinic"> - 프로젝트 상세 내용 </a></b>
 
 > #### ✔ [GCPZG_2-Tier_Terraform]
 > #### - IaC를 활용한 GCP 2-Tier 웹서비스 인프라 구축 프로젝트
+> #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/GCPZG_2-Tier_Terraform"> - 프로젝트 상세 내용 </a></b>
 
 > #### ✔ [GCPZG_Cloud_Native_MSA]
 > #### - Cloud Native 기반 MSA 웹 서비스 컨테이너 인프라 구축 프로젝트
+> #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA"> - 프로젝트 상세 내용 </a></b>
 </br>
 
 ### ☁ Amazon AWS
 > #### ✔ [AWS_3-Tier_Infra]
 > #### - AWS를 활용한 3티어 웹 서비스 인프라 구축 프로젝트
+> #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/AWS_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 
 > #### ✔ [AWS_Terraform-Infra]
 > #### - IaC를 활용한 AWS 웹 서비스 인프라 구축 프로젝트
+> #### - Personal Project
 > #### <b><a href="https://github.com/signaturejinn/AWS_Terraform-Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
 ### ☁ Microsoft Azure
 > #### ✔ [Azure_2-Tier_Infra]
 > #### - Azure를 활용한 2티어 웹 서비스 인프라 구축 프로젝트
+> #### - Personal Project
 > #### <b><a href="https://github.com/signaturejinn/Azure_2-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
 ### ☁ Naver NCP
 > #### ✔ [NCP_3-Tier_Infra]
 > #### - NCP를 활용한 3-Tier 웹서비스 인프라 구축 프로젝트
+> #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/NCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
 ### 🗂 Database
 > #### ✔ [DB_Capstone_Design]
 > #### - 지역 내 학교 체육시설 대여 DB 구축
+> #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/DB_Capstone_Design"> - 프로젝트 상세 내용 </a></b>
 </br></br></br></br>
 
