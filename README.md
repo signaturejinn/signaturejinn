@@ -34,7 +34,7 @@
 > #### ✔ [GCPZG_Cloud_Native_MSA]
 > #### - Cloud Native 기반 MSA 웹 서비스 컨테이너 인프라 구축 프로젝트
 > #### <b><a href="https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA"> - 프로젝트 상세 내용 </a></b>
-<hr/></br>
+</br>
 
 ### ☁ Amazon AWS
 > #### ✔ [AWS_3-Tier_Infra]
@@ -44,25 +44,25 @@
 > #### ✔ [AWS_Terraform-Infra]
 > #### - IaC를 활용한 AWS 웹 서비스 인프라 구축 프로젝트
 > #### <b><a href="https://github.com/signaturejinn/AWS_Terraform-Infra"> - 프로젝트 상세 내용 </a></b>
-<hr/></br>
+</br>
 
 ### ☁ Microsoft Azure
 > #### ✔ [Azure_2-Tier_Infra]
 > #### - Azure를 활용한 2티어 웹 서비스 인프라 구축 프로젝트
 > #### <b><a href="https://github.com/signaturejinn/Azure_2-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
-<hr/></br>
+</br>
 
 ### ☁ Naver NCP
 > #### ✔ [NCP_3-Tier_Infra]
 > #### - NCP를 활용한 3-Tier 웹서비스 인프라 구축 프로젝트
 > #### <b><a href="https://github.com/signaturejinn/NCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
-<hr/></br>
+</br>
 
 ### 🗂 Database
 > #### ✔ [DB_Capstone_Design]
 > #### - 지역 내 학교 체육시설 대여 DB 구축
 > #### <b><a href="https://github.com/signaturejinn/DB_Capstone_Design"> - 프로젝트 상세 내용 </a></b>
-<hr/></br></br></br></br>
+</br></br></br></br>
 
 <div align=center><h1> 📝 Stacks </h1></div>
 
