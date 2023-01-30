@@ -6,7 +6,7 @@
 
 <div align=center> <h2>[ 전사적자원관리 교육 - 2021.09 ~ 2021.12  ]</h2></div>
 
-### - Learning of ERP(Enterprise Resource Planning)
+#### - Learning of ERP(Enterprise Resource Planning)
 
 </br></br>
 
@@ -16,52 +16,51 @@
 
 </br></br></br></br>
 
-<div align=center><h1> 👨🏻‍💻 Project </h1></div>
+<div align=center><h1> 👨🏻‍💻 Project </h1></div> 
 
-<h2> 1. DB 캡스톤 디자인 </h2>
-
-### [DB_Capstone_Design] (https://github.com/signaturejinn/DB_Capstone_Design)
-</br>
-
-<h2> 2. AWS를 활용한 3티어 웹 서비스 </h2>
-
-### [AWS_3-Tier_Infra] (https://github.com/signaturejinn/AWS_3-Tier_Infra)
-</br>
-
-<h2> 3. Azure를 활용한 2티어 웹 서비스 </h2>
-
-### [Azure_2-Tier_Infra] (https://github.com/signaturejinn/Azure_2-Tier_Infra)
-</br>
-
-<h2> 4. NCP를 활용한 3-Tier 인프라 </h2>
-
-### [NCP_3-Tier_Infra] (https://github.com/signaturejinn/NCP_3-Tier_Infra)
+### ✔ [DB_Capstone_Design]
+> #### - 지역 내 학교 체육시설 대여 DB 구축
+> #### <b><a href="https://github.com/signaturejinn/DB_Capstone_Design"> - 프로젝트 상세 내용 </a></b>
 </br> 
 
-<h2> 5. GCP를 활용한 3-Tier 인프라 </h2>
-
-### [GCP_3-Tier_Infra] (https://github.com/signaturejinn/GCP_3-Tier_Infra)
+### ✔ [AWS_3-Tier_Infra]
+> #### - AWS를 활용한 3티어 웹 서비스
+> > #### <b><a href="https://github.com/signaturejinn/AWS_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
-<h2> 6. GCP를 활용한 Kubernetes 인프라 </h2>
-
-### [GCPZG_k8s_petclinic] (https://github.com/signaturejinn/GCPZG_k8s_petclinic)
+### ✔ [Azure_2-Tier_Infra]
+> #### - Azure를 활용한 2티어 웹 서비스
+> #### <b><a href="https://github.com/signaturejinn/Azure_2-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
-<h2> 7. IaC를 활용한 AWS 인프라 </h2>
-
-### [AWS_Terraform-Infra] (https://github.com/signaturejinn/AWS_Terraform-Infra)
+### ✔ [NCP_3-Tier_Infra]
+> #### - NCP를 활용한 3-Tier 인프라
+> #### <b><a href="https://github.com/signaturejinn/NCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
-<h2> 8. IaC를 활용한 GCP 2-Tier 인프라 </h2>
-
-### [GCPZG_2-Tier_Terraform] (https://github.com/signaturejinn/GCPZG_2-Tier_Terraform)
+### ✔ [GCP_3-Tier_Infra]
+> #### - GCP를 활용한 3-Tier 인프라
+> #### <b><a href="https://github.com/signaturejinn/GCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
-<h2> 9. Cloud Native 기반 MSA 웹 서비스 </h2>
+### ✔ [GCPZG_k8s_petclinic]
+> #### - GCP를 활용한 Kubernetes 인프라
+> #### <b><a href="https://github.com/signaturejinn/GCPZG_k8s_petclinic"> - 프로젝트 상세 내용 </a></b>
+</br>
 
-### [GCPZG_Cloud_Native_MSA] (https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
+### ✔ [AWS_Terraform-Infra]
+> #### - IaC를 활용한 AWS 인프라
+> #### <b><a href="https://github.com/signaturejinn/AWS_Terraform-Infra"> - 프로젝트 상세 내용 </a></b>
+</br>
 
+### ✔ [GCPZG_2-Tier_Terraform]
+> #### - IaC를 활용한 GCP 2-Tier 인프라
+> #### <b><a href="https://github.com/signaturejinn/GCPZG_2-Tier_Terraform"> - 프로젝트 상세 내용 </a></b>
+</br>
+
+### ✔ [GCPZG_Cloud_Native_MSA]
+> #### - Cloud Native 기반 MSA 웹 서비스
+> #### <b><a href="https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA"> - 프로젝트 상세 내용 </a></b>
 </br></br></br></br>
 
 <div align=center><h1> 📝 Stacks </h1></div>
