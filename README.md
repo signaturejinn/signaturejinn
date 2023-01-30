@@ -18,49 +18,50 @@
 
 <div align=center><h1> 👨🏻‍💻 Project </h1></div> 
 
-### ✔ [DB_Capstone_Design]
-> #### - 지역 내 학교 체육시설 대여 DB 구축
-> #### <b><a href="https://github.com/signaturejinn/DB_Capstone_Design"> - 프로젝트 상세 내용 </a></b>
-</br> 
-
-### ✔ [AWS_3-Tier_Infra]
-> #### - AWS를 활용한 3티어 웹 서비스
-> > #### <b><a href="https://github.com/signaturejinn/AWS_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
-</br>
-
-### ✔ [Azure_2-Tier_Infra]
-> #### - Azure를 활용한 2티어 웹 서비스
-> #### <b><a href="https://github.com/signaturejinn/Azure_2-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
-</br>
-
-### ✔ [NCP_3-Tier_Infra]
-> #### - NCP를 활용한 3-Tier 인프라
-> #### <b><a href="https://github.com/signaturejinn/NCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
-</br>
-
-### ✔ [GCP_3-Tier_Infra]
-> #### - GCP를 활용한 3-Tier 인프라
+### ☁ Google GCP
+> #### ✔ [GCP_3-Tier_Infra]
+> #### - GCP를 활용한 3-Tier 웹서비스 인프라 구축 프로젝트
 > #### <b><a href="https://github.com/signaturejinn/GCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
-</br>
 
-### ✔ [GCPZG_k8s_petclinic]
-> #### - GCP를 활용한 Kubernetes 인프라
+> #### ✔ [GCPZG_k8s_petclinic]
+> #### - GCP를 활용한 Kubernetes 웹서비스 인프라 구축 프로젝트
 > #### <b><a href="https://github.com/signaturejinn/GCPZG_k8s_petclinic"> - 프로젝트 상세 내용 </a></b>
+
+> #### ✔ [GCPZG_2-Tier_Terraform]
+> #### - IaC를 활용한 GCP 2-Tier 웹서비스 인프라 구축 프로젝트
+> #### <b><a href="https://github.com/signaturejinn/GCPZG_2-Tier_Terraform"> - 프로젝트 상세 내용 </a></b>
+
+> #### ✔ [GCPZG_Cloud_Native_MSA]
+> #### - Cloud Native 기반 MSA 웹 서비스 컨테이너 인프라 구축 프로젝트
+> #### <b><a href="https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA"> - 프로젝트 상세 내용 </a></b>
 </br>
 
-### ✔ [AWS_Terraform-Infra]
-> #### - IaC를 활용한 AWS 인프라
+### ☁ Amazon AWS
+> #### ✔ [AWS_3-Tier_Infra]
+> #### - AWS를 활용한 3티어 웹 서비스 인프라 구축 프로젝트
+> #### <b><a href="https://github.com/signaturejinn/AWS_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
+
+> #### ✔ [AWS_Terraform-Infra]
+> #### - IaC를 활용한 AWS 웹 서비스 인프라 구축 프로젝트
 > #### <b><a href="https://github.com/signaturejinn/AWS_Terraform-Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
-### ✔ [GCPZG_2-Tier_Terraform]
-> #### - IaC를 활용한 GCP 2-Tier 인프라
-> #### <b><a href="https://github.com/signaturejinn/GCPZG_2-Tier_Terraform"> - 프로젝트 상세 내용 </a></b>
+### ☁ Microsoft Azure
+> #### ✔ [Azure_2-Tier_Infra]
+> #### - Azure를 활용한 2티어 웹 서비스 인프라 구축 프로젝트
+> #### <b><a href="https://github.com/signaturejinn/Azure_2-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
-### ✔ [GCPZG_Cloud_Native_MSA]
-> #### - Cloud Native 기반 MSA 웹 서비스
-> #### <b><a href="https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA"> - 프로젝트 상세 내용 </a></b>
+### ☁ Naver NCP
+> #### ✔ [NCP_3-Tier_Infra]
+> #### - NCP를 활용한 3-Tier 웹서비스 인프라 구축 프로젝트
+> #### <b><a href="https://github.com/signaturejinn/NCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
+</br>
+
+### 🗂 Database
+> #### ✔ [DB_Capstone_Design]
+> #### - 지역 내 학교 체육시설 대여 DB 구축
+> #### <b><a href="https://github.com/signaturejinn/DB_Capstone_Design"> - 프로젝트 상세 내용 </a></b>
 </br></br></br></br>
 
 <div align=center><h1> 📝 Stacks </h1></div>
@@ -72,7 +73,10 @@
 <img src="https://img.shields.io/badge/Naver NCP-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <!--NCP-->
 
 ### OS
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <!--Linux-->
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"> <!--CentOS-->
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"> <!--Ubuntu-->
+<img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
+<img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"> <!--rocky linux-->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
 
 ### Language
@@ -106,7 +110,6 @@
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">  <!--Prometheus-->
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">  <!--Grafana-->
 
-
 ### Monitoring
 <img src="https://img.shields.io/badge/Fluent Bit-49BDA5?style=for-the-badge&logo=FluentBit&logoColor=white">  <!--Fluentbit-->
 
@@ -115,10 +118,12 @@
 
 ### Orchestration
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
+<img src="https://img.shields.io/badge/GCP GKE-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp gke-->
 
 ### Team Collaboration Tools 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <!--Slack-->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <!--Git-->
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> <!--Github-->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 <img src="https://img.shields.io/badge/Drawio-15C39A?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Drawio-->
 
