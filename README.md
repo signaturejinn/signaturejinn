@@ -20,7 +20,7 @@
 <div align=center><h1> 👨🏻‍💻 Project </h1></div> 
 
 ### ☁ Google GCP
-> #### ✔ [GCP_3-Tier_Infra]
+> #### ✔ [GCP_Infra_Semi]
 > #### - GCP를 활용한 3-Tier 웹서비스 인프라 구축 프로젝트
 > #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/GCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
@@ -30,7 +30,7 @@
 > #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/GCPZG_k8s_petclinic"> - 프로젝트 상세 내용 </a></b>
 
-> #### ✔ [GCPZG_2-Tier_Terraform]
+> #### ✔ [GCPZG_Terraform_Infra]
 > #### - IaC를 활용한 GCP 2-Tier 웹서비스 인프라 구축 프로젝트
 > #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/GCPZG_2-Tier_Terraform"> - 프로젝트 상세 내용 </a></b>
@@ -42,7 +42,7 @@
 </br>
 
 ### ☁ Amazon AWS
-> #### ✔ [AWS_3-Tier_Infra]
+> #### ✔ [AWS_Infra Project]
 > #### - AWS를 활용한 3티어 웹 서비스 인프라 구축 프로젝트
 > #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/AWS_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
@@ -54,14 +54,14 @@
 </br>
 
 ### ☁ Microsoft Azure
-> #### ✔ [Azure_2-Tier_Infra]
+> #### ✔ [Azure_Infra_Project]
 > #### - Azure를 활용한 2티어 웹 서비스 인프라 구축 프로젝트
 > #### - Personal Project
 > #### <b><a href="https://github.com/signaturejinn/Azure_2-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
 </br>
 
 ### ☁ Naver NCP
-> #### ✔ [NCP_3-Tier_Infra]
+> #### ✔ [NCP_Infra_Project]
 > #### - NCP를 활용한 3-Tier 웹서비스 인프라 구축 프로젝트
 > #### - Team Project
 > #### <b><a href="https://github.com/signaturejinn/NCP_3-Tier_Infra"> - 프로젝트 상세 내용 </a></b>
