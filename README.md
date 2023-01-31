@@ -140,7 +140,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 
 ### Draw Tools
-<img src="https://img.shields.io/badge/Drawio-15C39A?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Drawio-->
+<img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Drawio-->
 
 
 
