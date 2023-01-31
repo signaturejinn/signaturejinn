@@ -102,6 +102,7 @@
 ### Database
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 
 ### Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <!--spring-->
@@ -115,12 +116,14 @@
 ### CI/CD
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <!--jenkins-->
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">  <!--argocd-->
+<img src="https://img.shields.io/badge/GCP Cloud Build-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Terraform Cloud-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform cloud-->
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white"> <!--Helm-->
 
 ### Monitoring
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">  <!--Prometheus-->
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">  <!--Grafana-->
-
-### Monitoring
+<img src="https://img.shields.io/badge/Cloud Monitoring-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Cloud Logging-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Looker Studio-276DC3?style=for-the-badge&logo=Looker&logoColor=white"> <!--Looker-->
 <img src="https://img.shields.io/badge/Fluent Bit-49BDA5?style=for-the-badge&logo=FluentBit&logoColor=white">  <!--Fluentbit-->
 
 ### Container
