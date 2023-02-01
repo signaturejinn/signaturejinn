@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <!--Ubuntu-->
 <img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
 <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"> <!--rocky linux-->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
+<img src="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows Server-->
 
 ### Language
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <!--R-->
@@ -98,12 +98,15 @@
 <img src="https://img.shields.io/badge/R Studio-276DC3?style=for-the-badge&logo=RStudio&logoColor=white"> <!--RStudio-->
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
 <img src="https://img.shields.io/badge/Looker Studio-276DC3?style=for-the-badge&logo=Looker&logoColor=white"> <!--Looker-->
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white"> <!--Helm-->
 <img src="https://img.shields.io/badge/Arena Simulation-CE262F?style=for-the-badge&logo=Arena&logoColor=white">  <!--Arena-->
 <img src="https://img.shields.io/badge/ERP-FF9A00?style=for-the-badge&logo=ERP&logoColor=white">
 
 ### Database
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
+
+### Data Warehouse
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 
 ### Framework
@@ -120,12 +123,10 @@
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">  <!--argocd-->
 <img src="https://img.shields.io/badge/GCP Cloud Build-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 <img src="https://img.shields.io/badge/Terraform Cloud-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform cloud-->
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white"> <!--Helm-->
 
 ### Monitoring
 <img src="https://img.shields.io/badge/Cloud Monitoring-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 <img src="https://img.shields.io/badge/Cloud Logging-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
-<img src="https://img.shields.io/badge/Looker Studio-276DC3?style=for-the-badge&logo=Looker&logoColor=white"> <!--Looker-->
 <img src="https://img.shields.io/badge/Fluent Bit-49BDA5?style=for-the-badge&logo=FluentBit&logoColor=white">  <!--Fluentbit-->
 
 ### Container
@@ -141,7 +142,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <!--Github-->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 
-### Draw Tools
+### Drawing Tools
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Drawio-->
 
 
