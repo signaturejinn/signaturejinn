@@ -9,6 +9,7 @@
 <div align=center> <h2>[ 전사적자원관리 교육 - 2021.09 ~ 2021.12  ]</h2></div>
 
 #### - Learning of ERP(Enterprise Resource Planning)
+#### - 경영, 인사, 재무, 생산 등 기업의 전반적 시스템 통합 실습 진행
 
 </br></br>
 
