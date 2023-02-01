@@ -16,7 +16,15 @@
 
 #### - Basic learning of Cloud Infra Engineer Curriculum
 #### - Learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
-
+#### - Project
+- [GCP를 활용한 Petclinic 예약 웹 서비스](https://github.com/signaturejinn/GCP_Infra_Semi)
+- [GCP GKE를 활용한 Container 기반 웹 서비스](https://github.com/signaturejinn/GCPZG_k8s_petclinic)
+- [Iac를 활용한 GCP 인프라 구축](https://github.com/signaturejinn/GCPZG_Terraform_Project)
+- [Cloud Native 기반 MSA 웹 서비스](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
+- [AWS를 활용한 2-Tier 웹서비스](https://github.com/signaturejinn/AWS_Infra_Project)
+- [IaC를 활용한 AWS 인프라 구축](https://github.com/signaturejinn/AWS_Terraform-Infra/blob/main/README.md)
+- [Azure를 활용한 2-Tier 인프라 구축](https://github.com/signaturejinn/Azure_Infra_Project)
+- [NCP를 활용한 3-Tier 웹서비스 인프라 구축](https://github.com/signaturejinn/NCP_Infra_Project)
 </br></br></br></br>
 
 <div align=center><h1> 👨🏻‍💻 Project </h1></div> 
