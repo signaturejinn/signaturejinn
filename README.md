@@ -18,7 +18,7 @@
 #### - Basic learning of Cloud Infra Engineer Curriculum
 #### - Learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
 #### - Project
-- [GCP를 활용한 Petclinic 예약 웹 서비스](https://github.com/signaturejinn/GCP_Infra_Semi)
+- [GCP를 활용한 Petclinic 예약 웹 서비스]
   - [Notion](https://glen-party-257.notion.site/GCP-3-Tier-45aa9757dff04334bc25a0c03d925c62)
   - [GIT](https://github.com/signaturejinn/GCP_Infra_Semi)
 </br>
