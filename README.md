@@ -21,24 +21,38 @@
 - [GCP를 활용한 Petclinic 예약 웹 서비스](https://github.com/signaturejinn/GCP_Infra_Semi)
   - [Notion](https://glen-party-257.notion.site/GCP-3-Tier-45aa9757dff04334bc25a0c03d925c62)
   - [GIT](https://github.com/signaturejinn/GCP_Infra_Semi)
+</br>
+
 - [GCP GKE를 활용한 Container 기반 웹 서비스]
   - [Notion](https://glen-party-257.notion.site/GCP-Kubernetes-0b3d3464bfd842949ec87e0356121aa7)
   - [Git](https://github.com/signaturejinn/GCPZG_k8s_petclinic)
+</br>
+
 - [Iac를 활용한 GCP 인프라 구축]
   - [Notion](https://glen-party-257.notion.site/IaC-GCP-2-Tier-91633afad151403486e0e36474139341)
   - [GIT](https://github.com/signaturejinn/GCPZG_Terraform_Project)
+</br>
+
 - [Cloud Native 기반 MSA 웹 서비스]
   - [Notion](https://glen-party-257.notion.site/Cloud-Native-MSA-e02f73286be3430ba89aebaf9fe77abb)
   - [GIT](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
+</br>
+
 - [AWS를 활용한 2-Tier 웹서비스](https://github.com/signaturejinn/AWS_Infra_Project)
--   [Notion](https://glen-party-257.notion.site/AWS-2-Tier-ac7369bd7a7e4a4ab9dd8580c054e7e3)
--   [GIT](https://github.com/signaturejinn/AWS_Infra_Project)
+  -   [Notion](https://glen-party-257.notion.site/AWS-2-Tier-ac7369bd7a7e4a4ab9dd8580c054e7e3)
+  -   [GIT](https://github.com/signaturejinn/AWS_Infra_Project)
+</br>
+
 - [IaC를 활용한 AWS 인프라 구축]
   - [Noiton](https://glen-party-257.notion.site/Iac-AWS-fd57afd6f14c4520b27842416e54c2c4)
   - [GIT](https://github.com/signaturejinn/AWS_Terraform-Infra)
+</br>
+
 - [Azure를 활용한 2-Tier 인프라 구축]
   - [Notion](https://glen-party-257.notion.site/Azure-Infra-d7fc5cdd6cd1499eb496c4ecdb4d42cd)
-  - [GIT](https://github.com/signaturejinn/Azure_Infra_Project) 
+  - [GIT](https://github.com/signaturejinn/Azure_Infra_Project)
+</br>
+
 - [NCP를 활용한 3-Tier 웹서비스 인프라 구축]
   - [Notion](https://glen-party-257.notion.site/NCP-3-Tier-0492fca8b1e647f68776b5053880158f)
   - [GIT](https://github.com/signaturejinn/NCP_Infra_Project)
