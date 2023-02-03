@@ -38,7 +38,7 @@
   - [GIT](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA)
 </br>
 
-- [AWS를 활용한 2-Tier 웹서비스](https://github.com/signaturejinn/AWS_Infra_Project)
+- [AWS를 활용한 2-Tier 웹서비스]
   -   [Notion](https://glen-party-257.notion.site/AWS-2-Tier-ac7369bd7a7e4a4ab9dd8580c054e7e3)
   -   [GIT](https://github.com/signaturejinn/AWS_Infra_Project)
 </br>
