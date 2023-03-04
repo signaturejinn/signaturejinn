@@ -4,6 +4,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=250&section=header&text=Myeongjin%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div>
   
+<div align=center><h1> 🌏 Certificate </h1></div>
+ 
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/84059211/212036187-303094f4-f8b1-4ae9-a7c4-90bf11a6fdef.png) </div>
+</br></br>
+
+
 <div align=center><h1> 🎓 Education </h1></div>
 
 <div align=center> <h2>[ 전사적자원관리 교육 - 2021.09 ~ 2021.12  ]</h2></div>
