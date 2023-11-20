@@ -1,7 +1,7 @@
 <div align=center> <a href="mailto:audwls9515@gmail.com"><img src="https://img.shields.io/badge/audwls9515@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/%EB%AA%85%EC%A7%84-%EC%84%9C-984648262//"><img src="https://img.shields.io/badge/Myeongjin Seo-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="https://glen-party-257.notion.site/8d136b71818b4aeabb14309316fdd2ad/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-<a href="https://glen-party-257.notion.site/8d136b71818b4aeabb14309316fdd2ad/"><img src="https://img.shields.io/badge/Blog-FF9A00?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+<a href="https://signaturejinn.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF9A00?style=for-the-badge&logo=Tistory&logoColor=white"></a>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=250&section=header&text=Myeongjin%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div>
   
