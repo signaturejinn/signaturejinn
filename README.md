@@ -62,6 +62,15 @@
 - [NCP를 활용한 3-Tier 웹서비스 인프라 구축]
   - [Notion](https://glen-party-257.notion.site/NCP-3-Tier-0492fca8b1e647f68776b5053880158f)
   - [GIT](https://github.com/signaturejinn/NCP_Infra_Project)
+</br></br>
+
+<div align=center> <h2>[ CCCR DevOps & SRE Engineer BootCamp - 2023.07 ~ 2023.12 ]</h2></div>
+
+#### - Basic learning of DevOps Engineer Curriculum
+#### - Learning of Network, Linux, Aws, Docker, k8s, Terraform, CI/CD etc..
+#### - Project
+- [Recipe 정보 공유 및 추천 웹서비스]
+  -   [GIT](https://github.com/signaturejinn/RecipeTips)
 </br></br></br></br>
 
 <div align=center><h1> 👨🏻‍💻 Project </h1></div> 
@@ -98,6 +107,11 @@
 > #### - IaC를 활용한 AWS 웹 서비스 인프라 구축 프로젝트
 > #### - Personal Project
 > #### <b><a href="https://github.com/signaturejinn/AWS_Terraform-Infra"> - 프로젝트 상세 내용 </a></b>
+
+> #### ✔ [CCCR_RecipeTips]
+> #### - Recipe 정보 공유 및 추천 MSA 웹서비스
+> #### - Team Project
+> #### <b><a href="https://github.com/signaturejinn/RecipeTips"> - 프로젝트 상세 내용 </a></b>
 </br>
 
 ### ☁ Microsoft Azure
